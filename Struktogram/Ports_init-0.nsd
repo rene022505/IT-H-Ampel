@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:nsd="https://structorizer.fisch.lu" version="3.30-06" preRepeat="until " postFor="to" preReturn="return" postForIn="in" preWhile="while " output="OUTPUT" input="INPUT" preFor="for" preExit="exit" preLeave="leave" ignoreCase="true" preThrow="throw" preForIn="foreach" stepFor="by" author="reneg" created="2020-03-27" changedby="reneg" changed="2020-03-27" origin="Structorizer 3.30-06 / C99Parser: &#34;C:\Users\reneg\OneDrive\Desktop\Ampel\Ampel\Ampel\main.c&#34;" text="&#34;Ports_init()&#34;" comment="" color="ffffff" type="sub" style="nice">
+	<children>
+		<instruction text="&#34;DDRA &#60;- 0xFF&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+		<instruction text="&#34;DDRB &#60;- 0xFF&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+		<instruction text="&#34;DDRD &#60;- 0&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+		<instruction text="&#34;PORTD &#60;- 0xFF&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+		<instruction text="&#34;PORTA &#60;- 0x20&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+		<instruction text="&#34;PORTB &#60;- 0x80&#34;" comment="" color="ffffff" rotated="0" disabled="0"></instruction>
+	</children>
+</root>
